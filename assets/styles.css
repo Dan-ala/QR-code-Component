@@ -1,0 +1,84 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: #d5e1ef;
+}
+
+/*These are the styles when you split the screen of your browser*/
+/* .principal{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 1rem;
+    margin-top: 10%;
+    box-shadow: 0 1rem 2rem hsl(0 0% 0% / 20%);
+}
+
+img{
+    width: 300px;
+    border-radius: 0.7rem;
+    margin-top: 1rem;
+}
+
+#firstText{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+    background-color: none;
+    width: 75%;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#secondText{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    background-color: none;
+    width: 235px;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 2rem;
+} */
+
+/*Desktop*/
+.principal{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    align-items: center;
+    width: 24%;
+    margin-left: 38%;
+    border-radius: 1rem;
+    margin-top: 6%;
+    box-shadow: 0 1rem 2rem hsl(0 0% 0% / 20%);
+}
+
+img{
+    width: 300px;
+    border-radius: 0.7rem;
+    margin-top: 1rem;
+}
+
+#firstText{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+    background-color: none;
+    width: 75%;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#secondText{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    background-color: none;
+    width: 235px;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
