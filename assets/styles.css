@@ -58,7 +58,7 @@ img{
 }
 
 img{
-    width: 300px;
+    width: 90%;
     border-radius: 0.7rem;
     margin-top: 1rem;
 }
@@ -77,7 +77,7 @@ img{
     font-family: 'Outfit', sans-serif;
     color: hsl(220, 15%, 55%);
     background-color: none;
-    width: 235px;
+    width: 75%;
     font-size: 14px;
     text-align: center;
     margin-bottom: 2rem;
